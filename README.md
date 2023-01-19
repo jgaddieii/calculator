@@ -1,2 +1,2 @@
 # calculator
-Calculator
+Simple calculator HTML project for practice
